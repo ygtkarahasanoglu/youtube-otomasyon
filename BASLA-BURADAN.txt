@@ -1,0 +1,26 @@
+COLOSSAL BUILDS - YouTube otomasyonu
+=====================================
+
+Bu klasördeki dosyaları okumana veya açmana gerek yok. Onlar yapay zekânın talimatları.
+Sen sadece aşağıdaki 3 dosyaya ÇİFT TIKLA:
+
+1-KURULUM.bat          Bir kez. Gerekli programları kurar (10-15 dk).
+                       "Pencereyi kapat ve tekrar çalıştır" derse, öyle yap.
+
+2-KANAL-YONETICISI.bat Claude'u bu klasörde açar. İlk seferde şunu yaz:   /kurulum
+                       Claude seni hesap açma ve anahtar alma adımlarında tek tek yönlendirir.
+
+3-YENI-VIDEO.bat       Kurulumdan sonra: yeni bir video baştan sona üretilir ve
+                       YouTube'a ÖZEL olarak yüklenir. Sen izleyip yayınlarsın.
+
+Claude açıkken kullanabileceğin komutlar:
+  /video     yeni video (konuyu kendisi seçer; istersen konu yaz: /video panama kanali)
+  /hafta     haftanın 2 videosu
+  /analiz    yayındaki videoların performansı
+  /yorumlar  yorum özeti ve yanıt taslakları
+  /dagitim   Instagram + Facebook Reels paketi (/video bunu zaten sonda hazırlar)
+
+Instagram/Facebook paylaşımı: videonun klasöründeki "dagitim" klasörünü aç,
+PAYLAS.txt dosyasındaki adımları izle (Meta Business Suite'te 2-3 dakika).
+
+Bir şey anlamadığında Claude'a Türkçe sor: "şimdi ne yapmam lazım?"

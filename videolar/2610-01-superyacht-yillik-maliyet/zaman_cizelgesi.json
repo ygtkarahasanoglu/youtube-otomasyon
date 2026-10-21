@@ -1,0 +1,252 @@
+{
+ "sure": 508.61,
+ "sahneler": [
+  {
+   "id": "s01",
+   "bas": 0.0,
+   "bit": 11.05,
+   "bolum": "Intro"
+  },
+  {
+   "id": "s02",
+   "bas": 11.05,
+   "bit": 24.38,
+   "bolum": "Intro"
+  },
+  {
+   "id": "s03",
+   "bas": 24.38,
+   "bit": 37.134,
+   "bolum": "The Myth"
+  },
+  {
+   "id": "s04",
+   "bas": 37.134,
+   "bit": 44.488,
+   "bolum": "The Price Tag"
+  },
+  {
+   "id": "s05",
+   "bas": 44.488,
+   "bit": 55.178,
+   "bolum": "The Price Tag"
+  },
+  {
+   "id": "s06",
+   "bas": 55.178,
+   "bit": 68.868,
+   "bolum": "The Price Tag"
+  },
+  {
+   "id": "s07",
+   "bas": 68.868,
+   "bit": 83.686,
+   "bolum": "The Price Tag"
+  },
+  {
+   "id": "s08",
+   "bas": 83.686,
+   "bit": 93.92,
+   "bolum": "The Price Tag"
+  },
+  {
+   "id": "s09",
+   "bas": 93.92,
+   "bit": 105.594,
+   "bolum": "The Price Tag"
+  },
+  {
+   "id": "s10",
+   "bas": 105.594,
+   "bit": 112.924,
+   "bolum": "Crew"
+  },
+  {
+   "id": "s11",
+   "bas": 112.924,
+   "bit": 128.342,
+   "bolum": "Crew"
+  },
+  {
+   "id": "s12",
+   "bas": 128.342,
+   "bit": 142.56,
+   "bolum": "Crew"
+  },
+  {
+   "id": "s13",
+   "bas": 142.56,
+   "bit": 159.202,
+   "bolum": "Crew"
+  },
+  {
+   "id": "s14",
+   "bas": 159.202,
+   "bit": 172.196,
+   "bolum": "Crew"
+  },
+  {
+   "id": "s15",
+   "bas": 172.196,
+   "bit": 181.782,
+   "bolum": "Crew"
+  },
+  {
+   "id": "s16",
+   "bas": 181.782,
+   "bit": 192.04,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s17",
+   "bas": 192.04,
+   "bit": 205.034,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s18",
+   "bas": 205.034,
+   "bit": 218.364,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s19",
+   "bas": 218.364,
+   "bit": 232.174,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s20",
+   "bas": 232.174,
+   "bit": 244.352,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s21",
+   "bas": 244.352,
+   "bit": 255.474,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s22",
+   "bas": 255.474,
+   "bit": 268.828,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s23",
+   "bas": 268.828,
+   "bit": 282.302,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s24",
+   "bas": 282.302,
+   "bit": 296.952,
+   "bolum": "Running Costs"
+  },
+  {
+   "id": "s25",
+   "bas": 296.952,
+   "bit": 315.082,
+   "bolum": "Depreciation"
+  },
+  {
+   "id": "s26",
+   "bas": 315.082,
+   "bit": 329.612,
+   "bolum": "Depreciation"
+  },
+  {
+   "id": "s27",
+   "bas": 329.612,
+   "bit": 342.246,
+   "bolum": "Depreciation"
+  },
+  {
+   "id": "s28",
+   "bas": 342.246,
+   "bit": 355.96,
+   "bolum": "The Real Number"
+  },
+  {
+   "id": "s29",
+   "bas": 355.96,
+   "bit": 368.33,
+   "bolum": "The Real Number"
+  },
+  {
+   "id": "s30",
+   "bas": 368.33,
+   "bit": 380.076,
+   "bolum": "The Real Number"
+  },
+  {
+   "id": "s31",
+   "bas": 380.076,
+   "bit": 393.646,
+   "bolum": "Charter Income"
+  },
+  {
+   "id": "s32",
+   "bas": 393.646,
+   "bit": 405.944,
+   "bolum": "Charter Income"
+  },
+  {
+   "id": "s33",
+   "bas": 405.944,
+   "bit": 422.61,
+   "bolum": "Charter Income"
+  },
+  {
+   "id": "s34",
+   "bas": 422.61,
+   "bit": 432.964,
+   "bolum": "Charter Income"
+  },
+  {
+   "id": "s35",
+   "bas": 432.964,
+   "bit": 445.262,
+   "bolum": "Charter Income"
+  },
+  {
+   "id": "s36",
+   "bas": 445.262,
+   "bit": 454.536,
+   "bolum": "Charter Income"
+  },
+  {
+   "id": "s37",
+   "bas": 454.536,
+   "bit": 467.77,
+   "bolum": "From the Buyer's Desk"
+  },
+  {
+   "id": "s38",
+   "bas": 467.77,
+   "bit": 479.924,
+   "bolum": "From the Buyer's Desk"
+  },
+  {
+   "id": "s39",
+   "bas": 479.924,
+   "bit": 488.886,
+   "bolum": "Outro"
+  },
+  {
+   "id": "s40",
+   "bas": 488.886,
+   "bit": 500.92,
+   "bolum": "Outro"
+  },
+  {
+   "id": "s41",
+   "bas": 500.92,
+   "bit": 508.61,
+   "bolum": "Outro"
+  }
+ ],
+ "bolumler_gecerli": true
+}

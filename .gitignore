@@ -1,0 +1,28 @@
+# gizli bilgiler
+.env
+kanal/youtube_client_secret.json
+kanal/youtube_token.json
+client_secret*.json
+# buyuk / uretilen dosyalar
+videolar/*/ses/
+videolar/*/gorseller/
+videolar/*/_render/
+videolar/*/shorts/
+videolar/*/*.mp4
+videolar/*/onizleme.jpg
+kanal/muzik/*
+!kanal/muzik/.gitkeep
+arastirma/veri/
+arastirma/transkript/
+__pycache__/
+*.pyc
+_deneme.mp3
+videolar/*/thumbnail*.jpg
+videolar/*/*_mini.png
+ayar-paketi.zip
+_teshis.txt
+.claude/paket-imza.txt
+kokoro_deneme.mp3
+videolar/*/dagitim/*.mp4
+videolar/*/dagitim/*.jpg
+videolar/*/*.png

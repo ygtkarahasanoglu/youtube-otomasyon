@@ -1,0 +1,403 @@
+{
+ "kod": "2610-02-seine-nord-canal",
+ "durum": "taslak",
+ "sutun": "Building the Future",
+ "baslik": "Seine-Nord Europe Canal: €5.1B Became €7.3B Before It Opens",
+ "baslik_alternatifleri": [
+  "The €7.3 Billion Canal Europe Won't Finish Until 2032",
+  "France's Audit Office Just Flagged This €7.3 Billion Canal"
+ ],
+ "hook_formulu": "6 + 19 (Mid-story + Stakes)",
+ "sahneler": [
+  {
+   "id": "s01",
+   "bolum": "Hook",
+   "metin": "In 2019, France agreed to pay five point one billion euros for a new canal connecting Paris to the Belgian border. That number is now seven point three billion — and the canal still isn't finished.",
+   "gorsel": {"tur": "grafik", "grafik": {"tip": "bar", "baslik": "Canal Budget: 2019 vs Today", "etiketler": ["2019 agreement", "Current (2026)"], "degerler": [5.1, 7.3], "birim": "billion €", "vurgu": 1, "kaynak": "SCSNE funders page; Cour des comptes via L'Info Durable, 2026"}},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s02",
+   "bolum": "",
+   "metin": "This is the Seine-Nord Europe Canal: a hundred and seven kilometers of brand new waterway cutting through northern France, with seven locks lifting barges across the terrain. It's the biggest canal Europe has built in more than a hundred years.",
+   "gorsel": {"tur": "arsiv", "arama": "canal river France landscape aerial"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s03",
+   "bolum": "",
+   "metin": "Two of the biggest construction channels on YouTube have already covered this project. Neither one spent much time on where that extra two point two billion euros went, or on the warning buried inside France's own public audit report.",
+   "gorsel": {"tur": "stok", "arama": "construction site aerial drone France"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s04",
+   "bolum": "Context",
+   "metin": "Northern France already has a canal in this corridor. It opened in 1965, and it's called the Canal du Nord. The problem: it can only handle barges carrying around six hundred to seven hundred tonnes.",
+   "gorsel": {"tur": "arsiv", "arama": "canal barge river boat France"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s05",
+   "bolum": "",
+   "metin": "A barge built for the new route can carry up to four thousand tonnes — about seven times more, enough to replace roughly two hundred and twenty trucks on a single run. That's the entire point: move freight off the highways and onto water.",
+   "gorsel": {"tur": "grafik", "grafik": {"tip": "bar", "baslik": "Barge Capacity: Old Canal vs New", "etiketler": ["Canal du Nord (1965)", "Seine-Nord Europe"], "degerler": [650, 4000], "birim": "tonnes", "vurgu": 1, "kaynak": "Bentley/Egis project coverage; newmobility.news, 2026"}},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s06",
+   "bolum": "",
+   "metin": "The official target is seventeen point four million tonnes of freight a year by 2035, and up to one million fewer truck trips on French roads. But the price tag is where this story actually gets interesting.",
+   "gorsel": {"tur": "stok", "arama": "highway truck traffic France"},
+   "ekran_yazisi": "17.4M tonnes by 2035"
+  },
+  {
+   "id": "s07",
+   "bolum": "The Route",
+   "metin": "The canal runs from Compiègne, on the Oise river, north to the Belgian border, where it joins the Dunkirk-Scheldt canal. Along the way, it crosses sixty-four towns, all inside one region: Hauts-de-France.",
+   "gorsel": {"tur": "arsiv", "arama": "Compiègne Oise river France"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s08",
+   "bolum": "",
+   "metin": "It's fifty-four meters wide, four and a half meters deep, with seven meters of clearance under every bridge — wide and deep enough for the biggest inland cargo ships in Europe, vessels up to a hundred eighty-five meters long.",
+   "gorsel": {"tur": "stok", "arama": "cargo ship canal lock"},
+   "ekran_yazisi": "185 m vessels"
+  },
+  {
+   "id": "s09",
+   "bolum": "",
+   "metin": "Once it opens, it completes a missing link. France already has the largest inland waterway network in Europe, at eight thousand five hundred kilometers. This canal connects it to the Rotterdam-Antwerp river and canal network, and from there, to roughly twenty thousand kilometers of waterways across the continent.",
+   "gorsel": {"tur": "stok", "arama": "Rotterdam port aerial river delta"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s10",
+   "bolum": "",
+   "metin": "In 2024 alone, this wider river corridor carried eighteen point four million tonnes of cargo and eighty-five thousand containers, with traffic still climbing, up more than six percent into 2025.",
+   "gorsel": {"tur": "stok", "arama": "container barge river Europe"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s11",
+   "bolum": "The Hard Parts",
+   "metin": "Getting a loaded barge across this terrain means lifting it up and over. The canal needs seven locks in total, including one junction lock that ties into the old Canal du Nord.",
+   "gorsel": {"tur": "arsiv", "arama": "canal lock gates France"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s12",
+   "bolum": "",
+   "metin": "The plan has been reworked before. Earlier versions of the design used a different lock count, until engineers reused part of the old Canal du Nord and lowered the summit level by eighteen and a half meters, around 2012. Even the blueprint for this canal has changed over time.",
+   "gorsel": {"tur": "stok", "arama": "canal construction engineering site"},
+   "ekran_yazisi": "Design reworked in 2012"
+  },
+  {
+   "id": "s13",
+   "bolum": "",
+   "metin": "Two of those locks are twenty-five meters deep, described as the deepest lift locks ever built in Europe. Each lock chamber is a hundred ninety-five meters long and twelve and a half meters wide.",
+   "gorsel": {"tur": "ai_gorsel", "prompt": "Illustration of a massive concrete canal lock, twenty-five meters deep, construction cranes along the top edge, dramatic scale, overcast daylight, no people, no text", "arama": "concrete dam construction site cranes"},
+   "ekran_yazisi": "25 m deep lock"
+  },
+  {
+   "id": "s14",
+   "bolum": "",
+   "metin": "The hardest single structure doesn't carry cars — it carries the canal itself. A bridge one point three three kilometers long lifts ships straight over the Somme River below. It's being called the longest canal viaduct in Europe.",
+   "gorsel": {"tur": "ai_gorsel", "prompt": "Illustration of a long concrete canal viaduct carrying a waterway over a river valley, ships visible on top, aerial perspective, soft morning light, no text", "arama": "long concrete bridge viaduct river aerial"},
+   "ekran_yazisi": "1.33 km viaduct"
+  },
+  {
+   "id": "s15",
+   "bolum": "",
+   "metin": "Just the contract to build that viaduct, and the three kilometers of route around it, is worth more than four hundred forty million euros, awarded to a Bouygues-led group. One bridge. Nearly half a billion euros.",
+   "gorsel": {"tur": "arsiv", "arama": "concrete bridge viaduct under construction France"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s16",
+   "bolum": "",
+   "metin": "The canal also needs a reservoir: fourteen million cubic meters of water north of a town called Péronne, built so the locks can recycle their own water instead of pulling it from the ground.",
+   "gorsel": {"tur": "nasa", "arama": "reservoir France aerial satellite"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s17",
+   "bolum": "",
+   "metin": "Sixty-two roads and rail lines cross the route. Ten new docks will handle cargo transfer. And at the peak of construction, up to six thousand workers are on site at once.",
+   "gorsel": {"tur": "dosya", "yol": "videolar/2610-02-seine-nord-canal/gorseller/pixabay-v-225740.mp4"},
+   "ekran_yazisi": "6,000 workers at peak"
+  },
+  {
+   "id": "s18",
+   "bolum": "The Archaeology",
+   "metin": "Before any of this could be built, archaeologists had to clear the ground first. French teams ran what was, at the time, called the largest preventive archaeology operation in Europe, surveying thousands of hectares along the route.",
+   "gorsel": {"tur": "arsiv", "arama": "archaeological excavation France field"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s19",
+   "bolum": "",
+   "metin": "Most of what they found is historical, not wartime. In 2026, a dig near the Somme uncovered graves from the Merovingian era — more than a thousand years before this canal was ever planned.",
+   "gorsel": {"tur": "arsiv", "arama": "archaeologist excavation dig"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s20",
+   "bolum": "",
+   "metin": "This stretch of France also sits on First World War battlefields. Project reports describe soldiers' remains being found and reinterred during construction, though no official count has ever been published.",
+   "gorsel": {"tur": "arsiv", "arama": "WWI Somme battlefield memorial"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s21",
+   "bolum": "",
+   "metin": "Veterans' groups have gone further, suggesting up to a hundred thousand soldiers are still unaccounted for in this region, and that hundreds more remains could surface as digging continues. That's an advocacy estimate, not a confirmed number, but it's part of why this project moves carefully.",
+   "gorsel": {"tur": "stok", "arama": "war memorial cemetery France"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s22",
+   "bolum": "The Real Cost",
+   "metin": "Now, the number everyone quotes: seven point three billion euros. That's the official, current-prices figure, confirmed by the project's own funding page and by France's national auditor.",
+   "gorsel": {"tur": "yazi", "yazi": "€7.3 Billion", "alt": "The canal's current, official price tag"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s23",
+   "bolum": "",
+   "metin": "Back in 2019, when France signed the original financing agreement, that number was five point one billion. In seven years, without a single boat using the canal, the price has grown by two point two billion euros.",
+   "gorsel": {"tur": "stok", "arama": "french government budget meeting"},
+   "ekran_yazisi": "€5.1B → €7.3B"
+  },
+  {
+   "id": "s24",
+   "bolum": "",
+   "metin": "Here's who's actually paying. The European Union put in two point one billion euros, officially the project's single largest funding partner. The French state added about one point one billion. The Département du Nord added two hundred seventeen million.",
+   "gorsel": {"tur": "grafik", "grafik": {"tip": "bar", "baslik": "Who's Paying (2019 baseline, disclosed amounts)", "etiketler": ["European Union", "French State", "Département du Nord"], "degerler": [2.1, 1.097, 0.217], "birim": "billion €", "vurgu": 0, "kaynak": "SCSNE funders page, 2026"}},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s25",
+   "bolum": "",
+   "metin": "Add those three up and you get about three point four billion. The rest of the original five point one billion, roughly one point seven billion, comes from regional governments and a loan repaid through a dedicated tax — and the public funding page simply doesn't break that part down.",
+   "gorsel": {"tur": "stok", "arama": "euro currency coins europe"},
+   "ekran_yazisi": "€1.7B not itemized"
+  },
+  {
+   "id": "s26",
+   "bolum": "",
+   "metin": "Since 2019, the EU has kept adding money: three hundred million more approved in 2024, on top of five hundred eighty-two million already paid out, part of a cumulative package worth more than one point six billion euros across France and Belgium.",
+   "gorsel": {"tur": "arsiv", "arama": "European Union flag Brussels building"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s27",
+   "bolum": "",
+   "metin": "So where did the extra two point two billion in cost actually come from? France's Court of Auditors, the Cour des comptes, published an answer in April 2026 — and it isn't a flattering one.",
+   "gorsel": {"tur": "stok", "arama": "auditor financial report office"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s28",
+   "bolum": "",
+   "metin": "The court says the loan meant to close the financing gap could cost an extra one to three billion euros on top of construction, and warns that loan could at least double versus the original estimate. In their own words, it creates a, quote, strong risk for the French state.",
+   "gorsel": {"tur": "yazi", "yazi": "\"A Strong Risk for the State\"", "alt": "France's Court of Auditors, April 2026"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s29",
+   "bolum": "",
+   "metin": "To be fair, the court also says some of that growth is misleading — comparing to a very first, pre-feasibility estimate inflates the percentage. Measured over just the last five years, excluding inflation, the real cost increase is closer to nine percent.",
+   "gorsel": {"tur": "stok", "arama": "financial documents calculator desk"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s30",
+   "bolum": "",
+   "metin": "Neither of the two big YouTube breakdowns of this project mentioned that audit, or the financing-gap warning inside it. One of them is sponsored content for a construction software company — a good engineering story, just not the full financial one.",
+   "gorsel": {"tur": "stok", "arama": "laptop engineering software office"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s31",
+   "bolum": "From the Buyer's Desk",
+   "metin": "Here's something procurement people would recognize immediately: this canal isn't being built under one contract. It's being awarded in dozens of separate lots, lock by lock, sector by sector.",
+   "gorsel": {"tur": "stok", "arama": "construction contract documents signing"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s32",
+   "bolum": "",
+   "metin": "The lock at Montmacq cost about ninety-six million euros. The lock at Oisy-le-Verger, the canal's large-vessel entrance, cost about three hundred fifteen million. The Somme viaduct contract: more than four hundred forty million. Just those three lots already add up to roughly eight hundred fifty million euros.",
+   "gorsel": {"tur": "grafik", "grafik": {"tip": "bar", "baslik": "Known Contract Awards", "etiketler": ["Montmacq lock", "Oisy-le-Verger lock", "Somme viaduct (Sector 6)"], "degerler": [96, 315, 440], "birim": "million €", "vurgu": 2, "kaynak": "SCSNE public markets page; L'Info Durable, 2023-2026"}},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s33",
+   "bolum": "",
+   "metin": "That lot-by-lot approach keeps any single contractor from controlling too much of the project. But it also means there's never one clean invoice to point to, just a drip of award notices — exactly why the total cost of this canal has been so hard to pin down in press coverage.",
+   "gorsel": {"tur": "stok", "arama": "construction crane multiple contractors site"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s34",
+   "bolum": "",
+   "metin": "And the part that actually controls the schedule isn't concrete, it's steel. Earthworks are something dozens of European contractors can bid on. But the giant lock gates and hydraulic systems for a twenty-five-meter-deep lock come from a tiny pool of specialist fabricators. That's usually the real bottleneck on a project like this, not the digging.",
+   "gorsel": {"tur": "ai_gorsel", "prompt": "Illustration of a massive steel lock gate being lowered into place by cranes at a canal construction site, industrial scale, overcast sky, no people, no text", "arama": "industrial steel structure crane shipyard"},
+   "ekran_yazisi": "Lock gate install"
+  },
+  {
+   "id": "s35",
+   "bolum": "The Full Bill",
+   "metin": "Put it all together, and the known, disclosed contracts, the locks, the viaduct, the river works, add up to a little under one billion euros.",
+   "gorsel": {"tur": "stok", "arama": "aerial canal construction site drone"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s36",
+   "bolum": "",
+   "metin": "The remaining six point four billion euros covers everything that doesn't get its own press release: earthworks across a hundred and seven kilometers, the other locks, land, archaeology, engineering fees, and financing costs. That part is an estimate, the residual of the total minus what's actually been disclosed.",
+   "gorsel": {"tur": "kule", "kule": {"baslik": "Seine-Nord Europe Canal — €7.3 Billion", "birim": "€", "kaynak": "SCSNE public markets page; L'Info Durable; Cour des comptes 2026 (residual labelled estimate)", "kalemler": [
+     {"ad": "Montmacq lock contract", "tutar": 96000000, "renk": "#8A96A8"},
+     {"ad": "Oisy-le-Verger lock contract", "tutar": 315000000, "renk": "#8A96A8"},
+     {"ad": "Somme viaduct + route (Sector 6)", "tutar": 440000000, "renk": "#8A96A8"},
+     {"ad": "Oise river works, Montmacq", "tutar": 60000000, "renk": "#8A96A8"},
+     {"ad": "Remainder — estimate (earthworks, other locks, land, archaeology, engineering, financing)", "tutar": 6389000000, "renk": "#E63946"}
+   ]}},
+   "ekran_yazisi": "Estimate: the rest of the bill"
+  },
+  {
+   "id": "s37",
+   "bolum": "",
+   "metin": "This project was first approved back in 2010. Since then, the opening date has slipped from 2025, to 2027, to 2028. The current, official target is 2032, with some EU auditors citing 2032 or 2033, after about six months of testing before the first commercial boat moves through.",
+   "gorsel": {"tur": "yazi", "yazi": "2010 → 2032", "alt": "The opening date has slipped at least four times"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s38",
+   "bolum": "",
+   "metin": "There's one more wrinkle. During construction, the old Canal du Nord may have to close for about two years. France's auditors say even that closure's date, length, and scope aren't clearly settled yet.",
+   "gorsel": {"tur": "stok", "arama": "canal closed construction barrier"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s39",
+   "bolum": "",
+   "metin": "When it finally opens, the payoff is real: a canal built for ships carrying up to four thousand tonnes, an estimated fifty million tonnes of CO2 avoided over the next forty years, and up to a million truck trips a year pulled off French roads.",
+   "gorsel": {"tur": "nasa", "arama": "France inland waterway satellite view"},
+   "ekran_yazisi": "≈50M tonnes CO2 (40-yr est.)"
+  },
+  {
+   "id": "s40",
+   "bolum": "Close",
+   "metin": "So the real story of Europe's biggest new canal isn't just the locks, or the bridge over the Somme. It's a budget that grew by two point two billion euros before a single boat ever used it, and an auditor's warning that the next bill could be even bigger.",
+   "gorsel": {"tur": "stok", "arama": "aerial canal construction france sunset"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s41",
+   "bolum": "",
+   "metin": "If stories like this, where the real cost is buried in an audit report instead of a press release, are your thing, there's more of them on this channel.",
+   "gorsel": {"tur": "stok", "arama": "cargo ship canal aerial sunset"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s42",
+   "bolum": "",
+   "metin": "Which colossal build should we take apart next — a bridge, a shipyard, a tunnel under the sea? Tell us in the comments below.",
+   "gorsel": {"tur": "stok", "arama": "aerial drone infrastructure sunset wide"},
+   "ekran_yazisi": ""
+  }
+ ],
+ "shorts": [
+  {
+   "baslik": "Why Did Europe's Canal Get €2.2 Billion More Expensive?",
+   "sahneler": ["s22", "s23", "s24"],
+   "kanca": "The Price Just Jumped €2.2B",
+   "youtube": true
+  },
+  {
+   "baslik": "Why Mega-Projects Hide Their Real Cost From You",
+   "sahneler": ["s31", "s32", "s33"],
+   "kanca": "Why Mega-Projects Hide Costs",
+   "youtube": true
+  },
+  {
+   "baslik": "Will Europe's Biggest New Canal Actually Deliver?",
+   "sahneler": ["s37", "s39"],
+   "kanca": "Delayed 3 Times. Worth It?",
+   "youtube": false
+  }
+ ],
+ "dagitim": {
+  "klipler": [
+   {
+    "short": 1,
+    "gun": 1,
+    "kapak_sn": 1.0,
+    "instagram": {
+     "aciklama": "A canal budget grew by €2.2 billion before a single boat used it.\n\n€5.1B agreed in 2019. €7.3B is the current, official price — and it's still not finished.\n\nFrance's own Court of Auditors flagged the risk in April 2026.\n\nFull breakdown on YouTube — link in bio.",
+     "hashtagler": ["#MegaProjects", "#Infrastructure", "#FranceCanal", "#ColossalBuilds"]
+    },
+    "facebook": {
+     "aciklama": "A canal budget grew by €2.2 billion before a single boat used it.\n\n€5.1B in 2019. €7.3B today — and France's own auditors have flagged the risk.",
+     "hashtagler": ["#MegaProjects", "#Infrastructure"]
+    }
+   },
+   {
+    "short": 2,
+    "gun": 3,
+    "kapak_sn": 21.0,
+    "instagram": {
+     "aciklama": "Why mega-projects almost never publish one final price tag.\n\nThis €7.3B canal isn't one contract — it's dozens of separate lots, awarded lock by lock, sector by sector.\n\nThat's also why the real total is so hard to pin down in press coverage.\n\nFull breakdown on YouTube — link in bio.",
+     "hashtagler": ["#MegaProjects", "#Construction", "#Procurement", "#ColossalBuilds"]
+    },
+    "facebook": {
+     "aciklama": "Why mega-projects almost never publish one final price tag.\n\nThis €7.3B canal is being built as dozens of separate contracts, lock by lock.",
+     "hashtagler": ["#MegaProjects", "#Construction"]
+    }
+   },
+   {
+    "short": 3,
+    "gun": 5,
+    "kapak_sn": 1.0,
+    "instagram": {
+     "aciklama": "Approved in 2010. Still not open. So does this canal actually deliver?\n\nThe opening date has slipped three times, now targeting 2032.\n\nBut the payoff is real: ships carrying up to 4,000 tonnes, and up to a million fewer truck trips a year off French roads.\n\nIs a two-decade wait worth a build like this?",
+     "hashtagler": ["#MegaProjects", "#Infrastructure", "#Sustainability", "#ColossalBuilds"]
+    },
+    "facebook": {
+     "aciklama": "Approved in 2010. Still not open.\n\nThe opening date has slipped three times, now targeting 2032 — but the payoff (4,000-tonne ships, fewer trucks on the road) is real.",
+     "hashtagler": ["#MegaProjects", "#Infrastructure"]
+    }
+   }
+  ]
+ },
+ "thumbnail": {
+  "prompt": "A single massive concrete canal lock chamber under construction, towering cranes overhead, muddy earthworks below, dramatic overcast light, aerial close-up angle, no people, no text, no logos",
+  "arama": "canal lock construction site crane",
+  "varyantlar": [
+   {"yazi": "Cost Overrun", "vurgu": "Overrun", "etiket": "+€2.2B"},
+   {"yazi": "Audit Warning", "vurgu": "Warning", "etiket": "€7.3B"},
+   {"yazi": "Delayed Again", "vurgu": "Delayed", "etiket": "2032"}
+  ]
+ },
+ "aciklama": "The Seine-Nord Europe Canal is the biggest new canal Europe has built in over a century — and its budget just grew by €2.2 billion before a single boat has used it. Here's where that extra money went, and what France's own Court of Auditors warned about it.\n\nThis is a 107 km waterway with 7 locks and a bridge that carries ships over the Somme River instead of under it. The official price is €7.3 billion — up from €5.1 billion when France signed the original financing deal in 2019. In this video we trace that cost growth, what the Cour des comptes flagged in April 2026, and why the two biggest YouTube breakdowns of this project left that story out. We build a Cost Tower from real, disclosed contract values (the Oisy-le-Verger lock, the Somme viaduct, the Montmacq lock) and label everything else as an estimate. Plus: the archaeology along the route, the lock redesign that quietly changed the project's own blueprint, and why the opening date has slipped from 2010 all the way to 2032.\n\nSources in this video include the Société du Canal Seine-Nord Europe (SCSNE), France's Cour des comptes, L'Info Durable, Bentley/Egis project coverage, and newmobility.news. Full source list available on request.",
+ "etiketler": ["Seine-Nord Europe Canal", "canal seine nord europe", "mega canal europe", "canal construction", "megaproject", "infrastructure engineering", "France canal", "Cour des comptes", "cost overrun", "inland waterway", "engineering documentary", "Building the Future"],
+ "hashtagler": ["#SeineNordEurope", "#MegaProjects", "#Infrastructure"],
+ "kaynaklar": [
+  {"ad": "SCSNE official site — \"The canal\"", "url": "https://www.canal-seine-nord-europe.fr/en/the-canal/"},
+  {"ad": "SCSNE — \"Key figures\"", "url": "https://www.canal-seine-nord-europe.fr/en/channel-essentials/key-figures/"},
+  {"ad": "SCSNE — \"The funders\"", "url": "https://www.canal-seine-nord-europe.fr/en/players/the-funders/"},
+  {"ad": "SCSNE — \"The calendar\"", "url": "https://www.canal-seine-nord-europe.fr/en/the-calendar/"},
+  {"ad": "SCSNE — \"Public markets\"", "url": "https://www.canal-seine-nord-europe.fr/en/thematic/public-markets/"},
+  {"ad": "Cour des comptes report via L'Info Durable, 2026-04-10", "url": "https://www.linfodurable.fr/canal-seine-nord-europe-la-derive-des-couts-cree-un-risque-fort-pour-letat-cour-des-comptes-55852"},
+  {"ad": "L'Info Durable — Bouygues Somme viaduct award", "url": "https://www.linfodurable.fr/canal-seine-nord-europe-bouygues-construction-charge-de-construire-le-pont-canal-de-la-somme-55450"},
+  {"ad": "Bentley blog — Europe's most ambitious canal in a century", "url": "https://www.bentley.com/blog/insights/europes-most-ambitious-canal-in-a-century-is-taking-shape-in-france/"},
+  {"ad": "newmobility.news, 2026-06-12", "url": "https://newmobility.news/en/2026/06/12/paris-antwerp-by-barge-europes-new-freight-route-takes-shape/"},
+  {"ad": "RSL Australia", "url": "https://www.rslaustralia.org/latest-news/french-canal-project-may-unearth-great-war-soldiers-remains"},
+  {"ad": "Wikipedia — Seine–Nord Europe Canal (background cross-check)", "url": "https://en.wikipedia.org/wiki/Seine%E2%80%93Nord_Europe_Canal"},
+  {"ad": "SCSNE — Montmacq lock award notice", "url": "https://www.canal-seine-nord-europe.fr/en/the-works-of-lecluse-de-montmacq-cambronne-are-attributed/"}
+ ],
+ "yapay_icerik_beyani": false
+}

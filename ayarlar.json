@@ -1,0 +1,55 @@
+{
+ "kanal": {
+  "ad": "Colossal Builds",
+  "dil": "en",
+  "uzun_video_haftalik": 2,
+  "shorts_video_basina": 2
+ },
+ "ses": {
+  "saglayici": "kokoro",
+  "kokoro_ses": "am_michael",
+  "kokoro_dil": "a",
+  "kokoro_hiz": 1.0,
+  "model": "eleven_multilingual_v2",
+  "ses_id": "",
+  "voice_settings": {"stability": 0.45, "similarity_boost": 0.8, "style": 0.15},
+  "usd_1000_karakter": 0.22,
+  "edge_ses": "en-US-AndrewMultilingualNeural",
+  "edge_hiz": "+0%"
+ },
+ "fal": {
+  "gorsel_model": "fal-ai/flux/dev",
+  "gorsel_usd": 0.03,
+  "gorsel_stil": "cinematic documentary photo, natural light, realistic, 16:9, no text, no watermark",
+  "video_model": "fal-ai/kling-video/v2.5-turbo/pro/text-to-video",
+  "video_usd_sn": 0.07,
+  "video_sn": 5,
+  "video_stil": "cinematic, smooth camera motion, documentary b-roll, no text",
+  "video_basina_max_ai_video": 4
+ },
+ "video": {
+  "sahne_arasi_sn": 0.25,
+  "muzik_seviye": 0.22,
+  "lufs": -14
+ },
+ "youtube": {
+  "kategori": "27",
+  "yukleme_acik": false
+ },
+ "dagitim": {
+  "platformlar": ["instagram", "facebook"],
+  "reels_video_basina": 3,
+  "instagram_hesap": "@colossalbuilds",
+  "facebook_sayfa": "Colossal Builds",
+  "paylasim_saati_et": "12:00",
+  "ai_etiketi": true,
+  "kurulum_tamam": false
+ },
+ "butce": {
+  "aylik_usd": 100,
+  "video_basina_max_usd": 8
+ },
+ "marka": {
+  "renkler": {"arka": "#0B1220", "vurgu": "#FFB703", "yazi": "#FFFFFF", "kar": "#2BB673", "zarar": "#E63946", "gri": "#8A96A8"}
+ }
+}

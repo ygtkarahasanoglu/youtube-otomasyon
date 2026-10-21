@@ -1,0 +1,472 @@
+1
+00:00:00,000 --> 00:00:08,120
+A fifty-metre superyacht can cost close to
+two million dollars a year just to keep
+running, before the owner ever sets foot
+on board.
+
+2
+00:00:08,120 --> 00:00:08,974
+Not to buy it.
+
+3
+00:00:08,974 --> 00:00:11,050
+Just to own it, every single year.
+
+4
+00:00:11,050 --> 00:00:18,786
+For decades, brokers used a simple
+shortcut: running costs equal about ten
+percent of the purchase price a year.
+
+5
+00:00:18,786 --> 00:00:19,960
+It's a tidy rule.
+
+6
+00:00:19,960 --> 00:00:24,380
+Here's the problem — for a crewed
+superyacht, it's mostly wrong.
+
+7
+00:00:24,380 --> 00:00:33,526
+SuperyachtNews found something brokers
+don't advertise: a ten-year-old
+thirty-metre yacht's running costs don't
+fall the way its resale value does.
+
+8
+00:00:33,526 --> 00:00:35,330
+The boat gets cheaper to buy.
+
+9
+00:00:35,330 --> 00:00:37,134
+It never gets cheaper to run.
+
+10
+00:00:37,134 --> 00:00:44,488
+But before any of that running cost even
+starts, there's the number that gets all
+the headlines: the price tag itself.
+
+11
+00:00:44,488 --> 00:00:55,178
+A fully custom superyacht build runs
+somewhere around one million dollars for
+every metre of length — sometimes more,
+before you've added a single luxury
+feature.
+
+12
+00:00:55,178 --> 00:01:08,868
+And size doesn't scale the way you'd
+expect. The Arsenale and SuperYachtReview
+both point to the same pattern: a
+fifty-metre yacht doesn't cost twice as
+much as a twenty-five metre one. It costs
+five to ten times as much.
+
+13
+00:01:08,868 --> 00:01:13,140
+From the buyer's desk: that number isn't
+just steel and engines.
+
+14
+00:01:13,140 --> 00:01:23,686
+By the time you add navigation
+electronics, custom interiors, stabilizers
+and a full owner's suite, outfitting alone
+can be a third or more of the build cost.
+
+15
+00:01:23,686 --> 00:01:24,802
+And it isn't fast.
+
+16
+00:01:24,802 --> 00:01:33,920
+A fully custom build typically takes two
+to five years from signing to delivery —
+which is part of why the price can move
+between quote and launch.
+
+17
+00:01:33,920 --> 00:01:36,965
+Not every buyer starts with a new build,
+either.
+
+18
+00:01:36,965 --> 00:01:45,594
+Most superyacht sales are actually
+brokerage deals — buying a yacht already
+on the water, which sidesteps that
+multi-year wait entirely.
+
+19
+00:01:45,594 --> 00:01:47,230
+The build is the entry fee.
+
+20
+00:01:47,230 --> 00:01:52,924
+What keeps it running is a different
+budget entirely — and it starts with the
+people on board.
+
+21
+00:01:52,924 --> 00:01:59,372
+Industry reporting is consistent on one
+thing: crew is usually the single largest
+line item.
+
+22
+00:01:59,372 --> 00:02:08,342
+A captain on a mid-size superyacht can
+earn nine to twelve thousand euros a
+month, tax-free, with a chief engineer
+close behind.
+
+23
+00:02:08,342 --> 00:02:11,094
+And it's not just salary — it's headcount.
+
+24
+00:02:11,094 --> 00:02:22,560
+A fifty-metre charter yacht typically
+carries somewhere between twelve and
+seventeen crew: deck, interior,
+engineering and galley, each department
+reporting up to the captain.
+
+25
+00:02:22,560 --> 00:02:31,948
+From the buyer's desk: after a decade
+sourcing hardware for boats this size, the
+line that blows past budget almost never
+looks that way in a spreadsheet.
+
+26
+00:02:31,948 --> 00:02:33,167
+It's not the engine.
+
+27
+00:02:33,167 --> 00:02:39,202
+It's the electronics, the deck hardware,
+the thousand small parts nobody budgets a
+real number for.
+
+28
+00:02:39,202 --> 00:02:52,196
+Running a vessel this size also means the
+captain and senior officers need
+commercial maritime licenses, not a
+recreational boating certificate —
+qualifications that take years, and
+salary, to earn.
+
+29
+00:02:52,196 --> 00:03:01,782
+Crew contracts also tend to be seasonal on
+charter yachts, which means recruiting,
+training and onboarding costs repeat more
+often than owners expect.
+
+30
+00:03:01,782 --> 00:03:02,831
+Then there's fuel.
+
+31
+00:03:02,831 --> 00:03:09,825
+One active summer season on a fifty-metre
+yacht can burn through four hundred to six
+hundred and forty thousand dollars.
+
+32
+00:03:09,825 --> 00:03:12,040
+That's before a single ocean crossing.
+
+33
+00:03:12,040 --> 00:03:19,115
+Insurance alone is estimated to run at
+least around fifty thousand dollars a year
+for a yacht this size.
+
+34
+00:03:19,115 --> 00:03:25,034
+On a boat worth tens of millions, that's
+the price of just not sinking the owner's
+bet.
+
+35
+00:03:25,034 --> 00:03:36,839
+That insurance figure also splits two
+ways: hull cover, insuring the vessel
+itself, and liability cover, protecting
+the owner if someone gets hurt or
+something goes wrong at sea.
+
+36
+00:03:36,839 --> 00:03:38,364
+Most owners carry both.
+
+37
+00:03:38,364 --> 00:03:40,754
+Berth fees swing wildly by location.
+
+38
+00:03:40,754 --> 00:03:50,514
+Two Miami marinas reportedly quoted
+between one hundred forty-three and two
+hundred thousand dollars a year for one
+hundred fifty-seven-foot yacht.
+
+39
+00:03:50,514 --> 00:03:52,174
+Monaco runs higher still.
+
+40
+00:03:52,174 --> 00:03:55,617
+Most owners don't hold a superyacht in
+their own name.
+
+41
+00:03:55,617 --> 00:04:04,352
+It's almost always owned through a
+corporate structure or offshore company —
+mainly for liability and operating
+simplicity, not just tax.
+
+42
+00:04:04,352 --> 00:04:15,474
+Many owners also run a two-season pattern
+— Mediterranean summers, Caribbean winters
+— which means an ocean crossing twice a
+year, each one its own line on the fuel
+bill.
+
+43
+00:04:15,474 --> 00:04:28,828
+Day to day, most of this is actually run
+by a yacht management company, not the
+owner personally — payroll, maintenance
+schedules, compliance, insurance renewals,
+all handled for a separate management fee
+on top of everything else.
+
+44
+00:04:28,828 --> 00:04:42,302
+On top of the annual maintenance line,
+most yachts also need a haul-out every few
+years — pulling the boat out of the water
+for hull work, propellers and running gear
+— a separate, lumpy cost layered on top of
+the yearly budget.
+
+45
+00:04:42,302 --> 00:04:50,627
+And maintenance — the unglamorous part —
+is often estimated at fifteen to twenty
+percent of the yacht's value, every single
+year.
+
+46
+00:04:50,627 --> 00:04:56,952
+Compare that to the one or two percent a
+typical homeowner budgets, and the gap is
+the real story.
+
+47
+00:04:56,952 --> 00:05:01,146
+There's a cost that doesn't show up on any
+invoice: depreciation.
+
+48
+00:05:01,146 --> 00:05:09,598
+A new yacht typically loses about ten
+percent of its value in the first year,
+then slows to six to eight percent a year
+after that.
+
+49
+00:05:09,598 --> 00:05:15,082
+Over five years, it can still add up to
+forty or fifty percent of the original
+price.
+
+50
+00:05:15,082 --> 00:05:23,525
+Build quality matters here too — yards
+with strong resale reputations tend to
+hold their value better than the rest of
+the fleet.
+
+51
+00:05:23,525 --> 00:05:28,565
+But however the curve bends, one thing
+doesn't change: the boat gets cheaper.
+
+52
+00:05:28,565 --> 00:05:29,612
+The bills don't.
+
+53
+00:05:29,612 --> 00:05:33,064
+And it's not just the mothership that
+loses value.
+
+54
+00:05:33,064 --> 00:05:42,246
+The tender — the smaller boat that ferries
+guests to shore — depreciates even faster,
+often losing half its value within three
+years.
+
+55
+00:05:42,246 --> 00:05:51,272
+Stack every category together, and a
+rough, mid-range estimate for a
+fifty-metre yacht lands close to two
+million dollars a year.
+
+56
+00:05:51,272 --> 00:05:52,072
+Crew first.
+
+57
+00:05:52,072 --> 00:05:55,960
+Then fuel, refit reserve, berth and
+insurance behind it.
+
+58
+00:05:55,960 --> 00:06:08,330
+Independent reports put the full range for
+a fifty-metre yacht between one point
+eight and three point one five million
+dollars a year — depending on how hard,
+and how often, the owner actually uses it.
+
+59
+00:06:08,330 --> 00:06:10,298
+This isn't just our math, either.
+
+60
+00:06:10,298 --> 00:06:20,076
+Ocean Independence estimates roughly two
+million euros a year for a
+twenty-million-euro yacht — which lines up
+almost exactly with the range we just
+walked through.
+
+61
+00:06:20,076 --> 00:06:22,510
+So why do owners still sign up for this?
+
+62
+00:06:22,510 --> 00:06:26,344
+Some charter the yacht out part of the
+year to claw costs back.
+
+63
+00:06:26,344 --> 00:06:33,646
+Most just treat it like any other luxury:
+the bill is the price of the lifestyle,
+not a return they expect to see again.
+
+64
+00:06:33,646 --> 00:06:45,944
+Here's what chartering actually pays: a
+fifty-metre yacht typically lists for
+somewhere between one hundred eighty and
+two hundred thousand euros a week,
+climbing to three hundred fifty thousand
+in peak season.
+
+65
+00:06:45,944 --> 00:06:51,173
+But that rate doesn't include fuel, food,
+drinks or marina fees during the trip.
+
+66
+00:06:51,173 --> 00:07:02,610
+Charterers also pre-fund an advance
+provisioning allowance — typically thirty
+to forty percent of the charter fee on a
+motor yacht — and whatever's unspent comes
+back to them.
+
+67
+00:07:02,610 --> 00:07:12,964
+Scale that up, and on a
+two-hundred-thousand-euro charter week,
+that APA alone can run sixty to eighty
+thousand euros — on top of the charter fee
+itself.
+
+68
+00:07:12,964 --> 00:07:19,453
+And even a yacht actively marketed for
+charter is rarely booked more than twelve
+to fifteen weeks a year.
+
+69
+00:07:19,453 --> 00:07:25,262
+The rest of the calendar, the bills keep
+running with no charter fee coming in to
+offset them.
+
+70
+00:07:25,262 --> 00:07:30,040
+Run the math, and chartering covers a real
+chunk of the annual bill.
+
+71
+00:07:30,040 --> 00:07:34,536
+But for most owners, it's a partial
+offset, not a profit center.
+
+72
+00:07:34,536 --> 00:07:41,710
+One more thing from the buyer's desk: the
+number on the first quote is almost never
+the number on the final invoice.
+
+73
+00:07:41,710 --> 00:07:47,770
+Change orders, scope creep and currency
+swings all show up somewhere between
+signing and delivery.
+
+74
+00:07:47,770 --> 00:07:59,924
+That gap is exactly why every figure in
+this video is a range, not a promise — and
+why the real number, for any specific
+yacht, only exists on that owner's own
+invoice.
+
+75
+00:07:59,924 --> 00:08:02,845
+The purchase price is just the entry
+ticket.
+
+76
+00:08:02,845 --> 00:08:08,886
+The real number shows up every year after
+— and on a boat this size, it never really
+stops.
+
+77
+00:08:08,886 --> 00:08:20,920
+None of this works without the marinas,
+the crew agencies and the shipyards behind
+it — which is exactly where our other two
+series, Shipping & Ports and Maritime
+Business, pick up the story.
+
+78
+00:08:20,920 --> 00:08:27,295
+This is Yacht Economics — the real cost
+behind the boats, the brands and the
+business of the sea.
+
+79
+00:08:27,295 --> 00:08:28,610
+Below the Waterline.

@@ -1,0 +1,27 @@
+REELS PAYLASIM PAKETI - Seine-Nord Europe Canal: €5.1B Became €7.3B Before It Opens
+============================================================
+
+Nasil paylasilir (her Reel icin bir kez, toplam 2-3 dk):
+  1. business.facebook.com (Meta Business Suite) -> Olustur -> Reel
+  2. Paylasilacak yer: Instagram VE Facebook ikisini de sec
+  3. N-reel.mp4 dosyasini yukle
+  4. Aciklama: N-instagram.txt icindeki metni yapistir
+     (Facebook icin ayri metin istenirse N-facebook.txt)
+  5. Kapak: N-kapak.jpg
+  6. Yapay zeka etiketi: ACIK (anlatici sesi yapay zeka)
+  7. Muzik EKLEME (ses hazir). -> Planla
+
+Sira: once uzun video YouTube'da herkese acik olur (gun 0), sonra Reels.
+Saat: ABD Dogu 12:00 = Turkiye 19:00 (Mart-Kasim basi) / 20:00 (Kasim-Mart).
+
+NOT: Uzun video henuz yuklenmemis; Facebook metinlerine YouTube linki eklenmedi.
+     Yukledikten sonra 'python -m hat dagitim' komutunu tekrar calistir.
+
+Reel 1  ->  gun 1 (uzun video yayinlandiktan 1 gun sonra), 41 sn
+   A canal budget grew by €2.2 billion before a single boat used it.
+
+Reel 2  ->  gun 3 (uzun video yayinlandiktan 3 gun sonra), 51 sn
+   Why mega-projects almost never publish one final price tag.
+
+Reel 3  ->  gun 5 (uzun video yayinlandiktan 5 gun sonra), 38 sn
+   Approved in 2010. Still not open. So does this canal actually deliver?

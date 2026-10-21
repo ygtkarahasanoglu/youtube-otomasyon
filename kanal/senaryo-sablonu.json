@@ -1,0 +1,40 @@
+{
+ "kod": "",
+ "durum": "taslak",
+ "sutun": "How It Was Built | Giant Ships & Machines | Building the Future",
+ "baslik": "",
+ "baslik_alternatifleri": [],
+ "hook_formulu": "",
+ "sahneler": [
+  {
+   "id": "s01",
+   "bolum": "Intro",
+   "metin": "Narration for this scene, in English. 1-4 sentences, 8-25 seconds.",
+   "gorsel": {"tur": "stok", "arama": "english search words for stock video"},
+   "ekran_yazisi": ""
+  }
+ ],
+ "shorts": [
+  {"baslik": "", "sahneler": ["s02", "s03"], "kanca": "", "youtube": true}
+ ],
+ "dagitim": {
+  "klipler": [
+   {"short": 1, "gun": 1, "kapak_sn": 1.0,
+    "instagram": {"aciklama": "", "hashtagler": []},
+    "facebook": {"aciklama": "", "hashtagler": []}}
+  ]
+ },
+ "thumbnail": {
+  "prompt": "one strong subject, scene description without text",
+  "varyantlar": [
+   {"yazi": "", "vurgu": "", "etiket": ""},
+   {"yazi": "", "vurgu": "", "etiket": ""},
+   {"yazi": "", "vurgu": "", "etiket": ""}
+  ]
+ },
+ "aciklama": "",
+ "etiketler": [],
+ "hashtagler": [],
+ "kaynaklar": [{"ad": "", "url": ""}],
+ "yapay_icerik_beyani": false
+}

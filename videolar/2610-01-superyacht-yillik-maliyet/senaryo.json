@@ -1,0 +1,433 @@
+{
+ "kod": "2610-01-superyacht-yillik-maliyet",
+ "durum": "taslak",
+ "sutun": "Yacht Economics",
+ "baslik": "What a Superyacht Really Costs to Run for a Year",
+ "baslik_alternatifleri": [
+  "The Real Cost of Owning a Superyacht for a Year",
+  "Why a Superyacht Costs $2 Million a Year to Run",
+  "Superyacht Ownership: The Bill Nobody Shows You",
+  "What It Actually Costs to Keep a Superyacht Running"
+ ],
+ "hook_formulu": "Startling Number Open",
+ "sahneler": [
+  {
+   "id": "s01",
+   "bolum": "Intro",
+   "metin": "A fifty-metre superyacht can cost close to two million dollars a year just to keep running, before the owner ever sets foot on board. Not to buy it. Just to own it, every single year.",
+   "metin_tr": "Elli metrelik bir süper yat, sahibi daha güverteye ayak basmadan, sadece çalışır durumda tutmak için yılda neredeyse iki milyon dolara mal olabilir. Satın almak için değil. Sadece sahip olmak için — her yıl.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina monaco"},
+   "ekran_yazisi": "~$2,000,000 / YEAR"
+  },
+  {
+   "id": "s02",
+   "bolum": "Intro",
+   "metin": "For decades, brokers used a simple shortcut: running costs equal about ten percent of the purchase price a year. It's a tidy rule. Here's the problem — for a crewed superyacht, it's mostly wrong.",
+   "metin_tr": "Onlarca yıldır brokerlar basit bir kısayol kullandı: yıllık işletme maliyeti, satın alma fiyatının yaklaşık yüzde onu kadardır. Kulağa düzgün bir kural gibi geliyor. Sorun şu — mürettebatlı bir süper yat için bu kural çoğunlukla yanlış.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina monaco"},
+   "ekran_yazisi": "OLD RULE: 10% of price"
+  },
+  {
+   "id": "s03",
+   "bolum": "The Myth",
+   "metin": "SuperyachtNews found something brokers don't advertise: a ten-year-old thirty-metre yacht's running costs don't fall the way its resale value does. The boat gets cheaper to buy. It never gets cheaper to run.",
+   "metin_tr": "SuperyachtNews, brokerların pek reklamını yapmadığı bir şeyi ortaya çıkardı: on yıllık, otuz metrelik bir yatın işletme maliyeti, ikinci el değeri kadar düşmüyor. Teknenin satın alma fiyatı ucuzlar. İşletmesi asla ucuzlamaz.",
+   "gorsel": {"tur": "stok", "arama": "yacht marina monaco aerial"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s04",
+   "bolum": "The Price Tag",
+   "metin": "But before any of that running cost even starts, there's the number that gets all the headlines: the price tag itself.",
+   "metin_tr": "Ama bu işletme maliyetlerinin hiçbiri başlamadan önce, bütün manşetleri süsleyen bir rakam var: satın alma fiyatının kendisi.",
+   "gorsel": {"tur": "stok", "arama": "superyacht"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s05",
+   "bolum": "The Price Tag",
+   "metin": "A fully custom superyacht build runs somewhere around one million dollars for every metre of length — sometimes more, before you've added a single luxury feature.",
+   "metin_tr": "Tamamen özel üretim bir süper yat, her metre uzunluk için yaklaşık bir milyon dolara mal olabiliyor — daha tek bir lüks özellik eklemeden, bazen bunun da üzerinde.",
+   "gorsel": {"tur": "yazi", "yazi": "$1,000,000+", "alt": "Per metre, custom new-build (est.)"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s06",
+   "bolum": "The Price Tag",
+   "metin": "And size doesn't scale the way you'd expect. The Arsenale and SuperYachtReview both point to the same pattern: a fifty-metre yacht doesn't cost twice as much as a twenty-five metre one. It costs five to ten times as much.",
+   "metin_tr": "Ve boyut, beklediğiniz gibi orantılı artmıyor. The Arsenale ve SuperYachtReview aynı örüntüye işaret ediyor: elli metrelik bir yat, yirmi beş metrelik birinin iki katı değil, beş ila on katı maliyete sahip.",
+   "gorsel": {"tur": "grafik", "grafik": {
+     "tip": "bar",
+     "baslik": "Build Cost Doesn't Scale Linearly (index, est.)",
+     "etiketler": ["25m yacht", "50m yacht"],
+     "degerler": [1, 8],
+     "birim": "x",
+     "vurgu": 1,
+     "kaynak": "The Arsenale, citing SuperYachtReview (est.)"
+   }},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s07",
+   "bolum": "The Price Tag",
+   "metin": "From the buyer's desk: that number isn't just steel and engines. By the time you add navigation electronics, custom interiors, stabilizers and a full owner's suite, outfitting alone can be a third or more of the build cost.",
+   "metin_tr": "Satın almacının masasından: o rakam sadece çelik ve motor değil. Navigasyon elektroniği, özel iç mekân, stabilizatörler ve tam donanımlı sahip süiti eklendiğinde, sadece donanım kurulumu bile inşa maliyetinin üçte biri ya da daha fazlasını tutabiliyor.",
+   "gorsel": {"tur": "stok", "arama": "superyacht marina dock"},
+   "ekran_yazisi": "FROM THE BUYER'S DESK"
+  },
+  {
+   "id": "s08",
+   "bolum": "The Price Tag",
+   "metin": "And it isn't fast. A fully custom build typically takes two to five years from signing to delivery — which is part of why the price can move between quote and launch.",
+   "metin_tr": "Ve bu hızlı bir süreç değil. Tamamen özel bir inşa, imzadan teslimata genellikle iki ila beş yıl sürer — fiyatın teklif ile lansman arasında değişebilmesinin bir nedeni de bu.",
+   "gorsel": {"tur": "stok_foto", "arama": "superyacht"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s09",
+   "bolum": "The Price Tag",
+   "metin": "Not every buyer starts with a new build, either. Most superyacht sales are actually brokerage deals — buying a yacht already on the water, which sidesteps that multi-year wait entirely.",
+   "metin_tr": "Üstelik her alıcı sıfır inşa ile başlamıyor. Süper yat satışlarının çoğu aslında brokerlik işlemleri — zaten suda olan bir yatı satın almak, bu da yıllar süren bekleyişi tamamen atlıyor.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina berth monaco"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s10",
+   "bolum": "Crew",
+   "metin": "The build is the entry fee. What keeps it running is a different budget entirely — and it starts with the people on board.",
+   "metin_tr": "İnşa maliyeti sadece giriş ücreti. Onu çalışır tutan ise tamamen farklı bir bütçe — ve bu bütçe güvertedeki insanlarla başlıyor.",
+   "gorsel": {"tur": "stok", "arama": "superyacht"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s11",
+   "bolum": "Crew",
+   "metin": "Industry reporting is consistent on one thing: crew is usually the single largest line item. A captain on a mid-size superyacht can earn nine to twelve thousand euros a month, tax-free, with a chief engineer close behind.",
+   "metin_tr": "Sektör raporları bir konuda hemfikir: mürettebat genellikle tek kalemde en büyük masraftır. Orta boy bir süper yatta kaptan, vergisiz olarak ayda dokuz ila on iki bin avro kazanabilir; baş mühendis de ona yakın bir ücret alır.",
+   "gorsel": {"tur": "grafik", "grafik": {
+     "tip": "bar",
+     "baslik": "Crew: the #1 Cost (EUR / month, est.)",
+     "etiketler": ["Captain", "Chief Engineer"],
+     "degerler": [10500, 9250],
+     "birim": "€",
+     "vurgu": 0,
+     "kaynak": "UKSA 2025 salary guide (est.)"
+   }},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s12",
+   "bolum": "Crew",
+   "metin": "And it's not just salary — it's headcount. A fifty-metre charter yacht typically carries somewhere between twelve and seventeen crew: deck, interior, engineering and galley, each department reporting up to the captain.",
+   "metin_tr": "Ve mesele sadece maaş değil — kişi sayısı da önemli. Elli metrelik bir charter yatı genellikle on iki ila on yedi mürettebat taşır: güverte, iç mekân, mühendislik ve mutfak — her departman kaptana rapor verir.",
+   "gorsel": {"tur": "yazi", "yazi": "12-17 CREW", "alt": "Deck · Interior · Engineering · Galley (est.)"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s13",
+   "bolum": "Crew",
+   "metin": "From the buyer's desk: after a decade sourcing hardware for boats this size, the line that blows past budget almost never looks that way in a spreadsheet. It's not the engine. It's the electronics, the deck hardware, the thousand small parts nobody budgets a real number for.",
+   "metin_tr": "Satın almacının masasından: bu boyuttaki tekneler için on yıldır malzeme tedarik ettikten sonra şunu söyleyebilirim — bütçeyi asıl patlatan kalem, tablodaki haliyle hiç öyle görünmez. Motor değildir. Elektronik, güverte donanımı, kimsenin gerçek bir rakam ayırmadığı binlerce küçük parçadır.",
+   "gorsel": {"tur": "stok", "arama": "superyacht"},
+   "ekran_yazisi": "FROM THE BUYER'S DESK"
+  },
+  {
+   "id": "s14",
+   "bolum": "Crew",
+   "metin": "Running a vessel this size also means the captain and senior officers need commercial maritime licenses, not a recreational boating certificate — qualifications that take years, and salary, to earn.",
+   "metin_tr": "Bu boyutta bir gemiyi yönetmek, kaptan ve kıdemli zabitlerin amatör tekne ehliyeti değil, ticari denizcilik lisansı taşımasını gerektirir — yıllar süren ve maliyetli bir yeterlilik.",
+   "gorsel": {"tur": "stok", "arama": "superyacht marina dock"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s15",
+   "bolum": "Crew",
+   "metin": "Crew contracts also tend to be seasonal on charter yachts, which means recruiting, training and onboarding costs repeat more often than owners expect.",
+   "metin_tr": "Charter yatlarında mürettebat sözleşmeleri de genellikle mevsimliktir — bu da işe alım, eğitim ve oryantasyon maliyetlerinin sahiplerin beklediğinden daha sık tekrarlanması demektir.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina berth monaco"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s16",
+   "bolum": "Running Costs",
+   "metin": "Then there's fuel. One active summer season on a fifty-metre yacht can burn through four hundred to six hundred and forty thousand dollars. That's before a single ocean crossing.",
+   "metin_tr": "Sonra yakıt var. Elli metrelik bir yat, yoğun bir yaz sezonunda dört yüz ila altı yüz kırk bin dolar yakabilir. Bu rakam, daha tek bir okyanus geçişi yapılmadan ortaya çıkar.",
+   "gorsel": {"tur": "stok", "arama": "superyacht"},
+   "ekran_yazisi": "$400K-640K summer fuel"
+  },
+  {
+   "id": "s17",
+   "bolum": "Running Costs",
+   "metin": "Insurance alone is estimated to run at least around fifty thousand dollars a year for a yacht this size. On a boat worth tens of millions, that's the price of just not sinking the owner's bet.",
+   "metin_tr": "Sadece sigorta, bu büyüklükte bir yat için yılda en az elli bin dolar civarında tahmin ediliyor. On milyonlarca dolar değerindeki bir teknede bu, sahibinin bahsini batırmamanın bedelidir.",
+   "gorsel": {"tur": "yazi", "yazi": "$50,000+", "alt": "Annual insurance, estimated"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s18",
+   "bolum": "Running Costs",
+   "metin": "That insurance figure also splits two ways: hull cover, insuring the vessel itself, and liability cover, protecting the owner if someone gets hurt or something goes wrong at sea. Most owners carry both.",
+   "metin_tr": "O sigorta rakamı da iki yöne ayrılır: teknenin kendisini sigortalayan gövde sigortası ve denizde biri yaralanırsa ya da bir şeyler ters giderse sahibi koruyan sorumluluk sigortası. Çoğu sahip ikisini de taşır.",
+   "gorsel": {"tur": "stok", "arama": "superyacht"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s19",
+   "bolum": "Running Costs",
+   "metin": "Berth fees swing wildly by location. Two Miami marinas reportedly quoted between one hundred forty-three and two hundred thousand dollars a year for one hundred fifty-seven-foot yacht. Monaco runs higher still.",
+   "metin_tr": "Bağlama ücretleri konuma göre ciddi şekilde değişiyor. İki Miami marinası, elli metrelik bir yat için yıllık yüz kırk üç bin ile iki yüz bin dolar arasında teklif vermiş. Monako'da bu rakam daha da yükseliyor.",
+   "gorsel": {"tur": "stok", "arama": "superyacht marina monaco"},
+   "ekran_yazisi": "$143K-200K berth (est.)"
+  },
+  {
+   "id": "s20",
+   "bolum": "Running Costs",
+   "metin": "Most owners don't hold a superyacht in their own name. It's almost always owned through a corporate structure or offshore company — mainly for liability and operating simplicity, not just tax.",
+   "metin_tr": "Çoğu sahip, süper yatı kendi adına tutmaz. Neredeyse her zaman bir şirket yapısı ya da offshore firma üzerinden sahip olunur — bunun nedeni sadece vergi değil, esas olarak sorumluluk ve işletme kolaylığıdır.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina monaco"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s21",
+   "bolum": "Running Costs",
+   "metin": "Many owners also run a two-season pattern — Mediterranean summers, Caribbean winters — which means an ocean crossing twice a year, each one its own line on the fuel bill.",
+   "metin_tr": "Birçok sahip ayrıca iki sezonlu bir düzen izler — yazın Akdeniz, kışın Karayipler — bu da yılda iki kez okyanus geçişi demek; her biri yakıt faturasında ayrı bir kalem.",
+   "gorsel": {"tur": "stok", "arama": "superyacht marina dock"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s22",
+   "bolum": "Running Costs",
+   "metin": "Day to day, most of this is actually run by a yacht management company, not the owner personally — payroll, maintenance schedules, compliance, insurance renewals, all handled for a separate management fee on top of everything else.",
+   "metin_tr": "Günlük işleyişte bunların çoğunu aslında sahibi değil, bir yat yönetim şirketi yürütür — bordro, bakım takvimi, mevzuat uyumu, sigorta yenilemeleri; hepsi her şeyin üzerine ayrı bir yönetim ücreti karşılığında yürütülür.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina berth monaco"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s23",
+   "bolum": "Running Costs",
+   "metin": "On top of the annual maintenance line, most yachts also need a haul-out every few years — pulling the boat out of the water for hull work, propellers and running gear — a separate, lumpy cost layered on top of the yearly budget.",
+   "metin_tr": "Yıllık bakım kaleminin üzerine, çoğu yat birkaç yılda bir karaya çekilmeyi de gerektirir — gövde işleri, pervaneler ve dümen donanımı için tekneyi sudan çıkarmak — yıllık bütçenin üzerine binen, düzensiz ve ayrı bir maliyet.",
+   "gorsel": {"tur": "stok", "arama": "superyacht"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s24",
+   "bolum": "Running Costs",
+   "metin": "And maintenance — the unglamorous part — is often estimated at fifteen to twenty percent of the yacht's value, every single year. Compare that to the one or two percent a typical homeowner budgets, and the gap is the real story.",
+   "metin_tr": "Ve bakım — işin gösterişsiz kısmı — her yıl yatın değerinin yüzde on beşi ile yirmisi arasında tahmin ediliyor. Bunu, sıradan bir ev sahibinin ayırdığı yüzde bir ya da iki ile karşılaştırın; asıl hikâye bu aradaki fark.",
+   "gorsel": {"tur": "grafik", "grafik": {
+     "tip": "bar",
+     "baslik": "Annual Maintenance, % of Asset Value (est.)",
+     "etiketler": ["Typical home", "Superyacht"],
+     "degerler": [1.5, 17.5],
+     "birim": "",
+     "vurgu": 1,
+     "kaynak": "Yachtway (yacht, est.); common real-estate rule of thumb (home)"
+   }},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s25",
+   "bolum": "Depreciation",
+   "metin": "There's a cost that doesn't show up on any invoice: depreciation. A new yacht typically loses about ten percent of its value in the first year, then slows to six to eight percent a year after that. Over five years, it can still add up to forty or fifty percent of the original price.",
+   "metin_tr": "Hiçbir faturada görünmeyen bir maliyet var: değer kaybı. Yeni bir yat ilk yıl değerinin yaklaşık yüzde onunu kaybeder, sonrasında bu oran yıllık yüzde altı ila sekize yavaşlar. Ama beş yıl içinde bu, orijinal fiyatın yüzde kırk ila ellisine kadar birikebilir.",
+   "gorsel": {"tur": "grafik", "grafik": {
+     "tip": "bar",
+     "baslik": "Typical Value Curve (est.)",
+     "etiketler": ["New", "Year 1", "Year 5"],
+     "degerler": [100, 90, 55],
+     "birim": "%",
+     "vurgu": 2,
+     "kaynak": "YATCO (est.)"
+   }},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s26",
+   "bolum": "Depreciation",
+   "metin": "Build quality matters here too — yards with strong resale reputations tend to hold their value better than the rest of the fleet. But however the curve bends, one thing doesn't change: the boat gets cheaper. The bills don't.",
+   "metin_tr": "Burada inşa kalitesi de önemli — ikinci el değeri güçlü tersanelerin ürettiği yatlar, filonun geri kalanına göre değerini daha iyi koruyor. Ama eğri nasıl bükülürse bükülsün, değişmeyen bir şey var: tekne ucuzlar. Faturalar ucuzlamaz.",
+   "gorsel": {"tur": "yazi", "yazi": "VALUE ≠ BILLS", "alt": "The boat gets cheaper. The bills don't."},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s27",
+   "bolum": "Depreciation",
+   "metin": "And it's not just the mothership that loses value. The tender — the smaller boat that ferries guests to shore — depreciates even faster, often losing half its value within three years.",
+   "metin_tr": "Değer kaybeden sadece ana tekne de değil. Misafirleri kıyıya taşıyan küçük tekne, yani tender, daha da hızlı değer kaybeder — genellikle üç yıl içinde değerinin yarısını kaybeder.",
+   "gorsel": {"tur": "yazi", "yazi": "-50%", "alt": "Tender value lost in 3 years (est.)"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s28",
+   "bolum": "The Real Number",
+   "metin": "Stack every category together, and a rough, mid-range estimate for a fifty-metre yacht lands close to two million dollars a year. Crew first. Then fuel, refit reserve, berth and insurance behind it.",
+   "metin_tr": "Her kalemi üst üste koyduğunuzda, elli metrelik bir yat için kaba bir orta seviye tahmin yılda neredeyse iki milyon dolara ulaşıyor. İlk sırada mürettebat var. Ardından yakıt, yenileme rezervi, bağlama ve sigorta geliyor.",
+   "gorsel": {"tur": "kule", "kule": {
+     "baslik": "Estimated Annual Running Cost — 50m Yacht",
+     "birim": "$",
+     "kalemler": [
+      {"ad": "Crew", "tutar": 900000},
+      {"ad": "Maintenance & refit reserve", "tutar": 370000},
+      {"ad": "Fuel (active season)", "tutar": 500000},
+      {"ad": "Berth & marina", "tutar": 170000},
+      {"ad": "Insurance", "tutar": 60000}
+     ],
+     "kaynak": "The Arsenale, UKSA 2025, Yachtway — mid-range estimates"
+   }},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s29",
+   "bolum": "The Real Number",
+   "metin": "Independent reports put the full range for a fifty-metre yacht between one point eight and three point one five million dollars a year — depending on how hard, and how often, the owner actually uses it.",
+   "metin_tr": "Bağımsız raporlar, elli metrelik bir yat için yıllık toplam maliyeti bir virgül sekiz ile üç virgül on beş milyon dolar arasına koyuyor — bu da sahibinin tekneyi ne kadar yoğun ve sık kullandığına bağlı.",
+   "gorsel": {"tur": "stok", "arama": "superyacht"},
+   "ekran_yazisi": "$1.8M-$3.15M / year (est. range)"
+  },
+  {
+   "id": "s30",
+   "bolum": "The Real Number",
+   "metin": "This isn't just our math, either. Ocean Independence estimates roughly two million euros a year for a twenty-million-euro yacht — which lines up almost exactly with the range we just walked through.",
+   "metin_tr": "Bu sadece bizim hesabımız da değil. Ocean Independence, yirmi milyon avroluk bir yat için yaklaşık yılda iki milyon avro tahmin ediyor — bu da az önce incelediğimiz aralıkla neredeyse birebir örtüşüyor.",
+   "gorsel": {"tur": "yazi", "yazi": "~€2,000,000 / YEAR", "alt": "Independent check: Ocean Independence (est.)"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s31",
+   "bolum": "Charter Income",
+   "metin": "So why do owners still sign up for this? Some charter the yacht out part of the year to claw costs back. Most just treat it like any other luxury: the bill is the price of the lifestyle, not a return they expect to see again.",
+   "metin_tr": "Peki sahipler neden buna hâlâ razı oluyor? Bazıları yılın bir kısmında yatı kiraya vererek maliyetin bir kısmını geri almaya çalışıyor. Çoğu ise bunu diğer lüksler gibi görüyor: fatura, bir daha geri beklemedikleri bir getiri değil, yaşam tarzının bedeli.",
+   "gorsel": {"tur": "yazi", "yazi": "CHARTER INCOME", "alt": "Can offset part of the bill"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s32",
+   "bolum": "Charter Income",
+   "metin": "Here's what chartering actually pays: a fifty-metre yacht typically lists for somewhere between one hundred eighty and two hundred thousand euros a week, climbing to three hundred fifty thousand in peak season.",
+   "metin_tr": "Charter gerçekte ne kazandırıyor: elli metrelik bir yat genellikle haftalık yüz seksen ila iki yüz bin avro arasında listeleniyor, yoğun sezonda bu rakam üç yüz elli bine kadar çıkabiliyor.",
+   "gorsel": {"tur": "grafik", "grafik": {
+     "tip": "bar",
+     "baslik": "Weekly Charter Rate, 50m Class (est.)",
+     "etiketler": ["Typical", "Peak season"],
+     "degerler": [190, 350],
+     "birim": "€K",
+     "vurgu": 1,
+     "kaynak": "Ahoy Club, Bespoke Yacht Charter (est.)"
+   }},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s33",
+   "bolum": "Charter Income",
+   "metin": "But that rate doesn't include fuel, food, drinks or marina fees during the trip. Charterers also pre-fund an advance provisioning allowance — typically thirty to forty percent of the charter fee on a motor yacht — and whatever's unspent comes back to them.",
+   "metin_tr": "Ama bu ücrete yolculuk sırasındaki yakıt, yemek, içecek ya da marina ücretleri dahil değil. Kiracılar ayrıca bir ön masraf fonu (APA) öder — motor yatlarda genellikle charter ücretinin yüzde otuz ila kırkı kadar — ve harcanmayan kısım kendilerine geri döner.",
+   "gorsel": {"tur": "yazi", "yazi": "+30-40% APA", "alt": "Pre-funded trip expenses (est.)"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s34",
+   "bolum": "Charter Income",
+   "metin": "Scale that up, and on a two-hundred-thousand-euro charter week, that APA alone can run sixty to eighty thousand euros — on top of the charter fee itself.",
+   "metin_tr": "Bunu büyüttüğünüzde, iki yüz bin avroluk bir charter haftasında, sadece APA altmış ila seksen bin avroya ulaşabilir — bu da charter ücretinin üzerine eklenir.",
+   "gorsel": {"tur": "yazi", "yazi": "€60K-80K", "alt": "APA on a €200K charter week (est.)"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s35",
+   "bolum": "Charter Income",
+   "metin": "And even a yacht actively marketed for charter is rarely booked more than twelve to fifteen weeks a year. The rest of the calendar, the bills keep running with no charter fee coming in to offset them.",
+   "metin_tr": "Aktif olarak charter'a sunulan bir yat bile yılda on iki ila on beş haftadan fazla nadiren doludur. Takvimin geri kalanında faturalar işlemeye devam eder, ama onları dengeleyecek bir charter geliri yoktur.",
+   "gorsel": {"tur": "yazi", "yazi": "12-15 WEEKS", "alt": "Typical weeks chartered per year (est.)"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s36",
+   "bolum": "Charter Income",
+   "metin": "Run the math, and chartering covers a real chunk of the annual bill. But for most owners, it's a partial offset, not a profit center.",
+   "metin_tr": "Hesabı yaptığınızda, charter yıllık faturanın gerçek bir kısmını karşılıyor. Ama çoğu sahip için bu, bir kâr kapısı değil, kısmi bir telafi.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina berth monaco"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s37",
+   "bolum": "From the Buyer's Desk",
+   "metin": "One more thing from the buyer's desk: the number on the first quote is almost never the number on the final invoice. Change orders, scope creep and currency swings all show up somewhere between signing and delivery.",
+   "metin_tr": "Satın almacının masasından bir şey daha: ilk tekliftteki rakam, neredeyse hiçbir zaman son faturadaki rakam değildir. Değişiklik talepleri, kapsam genişlemesi ve kur dalgalanmaları, imza ile teslimat arasında bir yerde mutlaka ortaya çıkar.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina berth monaco"},
+   "ekran_yazisi": "FROM THE BUYER'S DESK"
+  },
+  {
+   "id": "s38",
+   "bolum": "From the Buyer's Desk",
+   "metin": "That gap is exactly why every figure in this video is a range, not a promise — and why the real number, for any specific yacht, only exists on that owner's own invoice.",
+   "metin_tr": "İşte bu yüzden bu videodaki her rakam bir söz değil, bir aralıktır — ve belirli bir yat için asıl rakam, sadece o sahibinin kendi faturasında gerçekten var olur.",
+   "gorsel": {"tur": "stok", "arama": "superyacht marina dock"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s39",
+   "bolum": "Outro",
+   "metin": "The purchase price is just the entry ticket. The real number shows up every year after — and on a boat this size, it never really stops.",
+   "metin_tr": "Satın alma fiyatı sadece giriş biletidir. Asıl rakam, sonraki her yıl karşınıza çıkar — ve bu boyuttaki bir teknede, bu hiç durmaz.",
+   "gorsel": {"tur": "stok", "arama": "superyacht marina monaco"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s40",
+   "bolum": "Outro",
+   "metin": "None of this works without the marinas, the crew agencies and the shipyards behind it — which is exactly where our other two series, Shipping & Ports and Maritime Business, pick up the story.",
+   "metin_tr": "Bütün bunlar, arkasındaki marinalar, mürettebat ajansları ve tersaneler olmadan işlemez — hikâyenin tam da burada devam ettiği yer, diğer iki serimiz: Shipping & Ports ve Maritime Business.",
+   "gorsel": {"tur": "stok", "arama": "superyacht marina dock"},
+   "ekran_yazisi": ""
+  },
+  {
+   "id": "s41",
+   "bolum": "Outro",
+   "metin": "This is Yacht Economics — the real cost behind the boats, the brands and the business of the sea. Below the Waterline.",
+   "metin_tr": "Burası Yacht Economics — teknelerin, markaların ve denizin işinin arkasındaki gerçek maliyet. Below the Waterline.",
+   "gorsel": {"tur": "stok", "arama": "luxury yacht marina monaco"},
+   "ekran_yazisi": "YACHT ECONOMICS"
+  }
+ ],
+ "shorts": [
+  {"baslik": "Why Crew Is a Superyacht's #1 Cost", "sahneler": ["s11", "s13"], "kanca": "The single biggest line item on a superyacht's budget isn't fuel.", "youtube": true},
+  {"baslik": "The Real Cost of a Superyacht, Stacked Up", "sahneler": ["s28", "s29"], "kanca": "Here's every dollar, stacked up — and the real range behind it.", "youtube": true}
+ ],
+ "dagitim": {
+  "klipler": [
+   {"short": 1, "gun": 1, "kapak_sn": 1.0,
+    "instagram": {"aciklama": "", "hashtagler": []},
+    "facebook": {"aciklama": "", "hashtagler": []}},
+   {"short": 2, "gun": 3, "kapak_sn": 1.0,
+    "instagram": {"aciklama": "", "hashtagler": []},
+    "facebook": {"aciklama": "", "hashtagler": []}}
+  ]
+ },
+ "thumbnail": {
+  "arama": "superyacht aerial ocean luxury",
+  "varyantlar": [
+   {"yazi": "IT COSTS $2,000,000 A YEAR", "vurgu": "$2,000,000", "etiket": "PER YEAR"},
+   {"yazi": "THE REAL COST OF A SUPERYACHT", "vurgu": "REAL COST", "etiket": "BUYER'S DESK"},
+   {"yazi": "WHO PAYS $2M A YEAR FOR THIS?", "vurgu": "$2M A YEAR", "etiket": "ESTIMATE"}
+  ]
+ },
+ "aciklama": "What does it actually cost to own a superyacht — not just to buy one, but to build it, crew it, run it and watch it lose value, year after year? We break down the build cost, crew salaries and headcount, fuel, insurance, berth fees, maintenance, depreciation and how charter income really offsets the bill — using public industry reporting, stacked into one real number. All figures are industry estimates, not a specific vessel's accounts; sources are listed below.\n\nSources:\n- The Arsenale, \"How Much Does a Superyacht Cost\"\n- SuperyachtNews, \"What It Really Costs to Run a Superyacht\"\n- Yachtbuyer, \"Custom Yachts: Key Running Costs\"\n- Yachtway, \"Superyacht Maintenance Costs in 2025\"\n- UKSA, \"Annual Superyacht Salary Guide 2025\"\n- Ocean Independence, \"How Much Does a Superyacht Really Cost?\"\n- IYC, \"Elevate Experience With Yacht Crew\"\n- Wikipedia, \"Advance Provisioning Allowance\"\n- Ahoy Club, Charter Cost Guide (50m)\n- Bespoke Yacht Charter, \"How Much Does a Superyacht Charter Really Cost?\"\n- YATCO, Yacht Depreciation",
+ "etiketler": ["superyacht cost", "yacht running cost", "superyacht crew salary", "yacht economics", "luxury yacht ownership", "superyacht depreciation", "yacht charter cost"],
+ "hashtagler": ["#superyacht", "#yachtlife", "#maritimebusiness"],
+ "kaynaklar": [
+  {"ad": "The Arsenale - How Much Does a Superyacht Cost", "url": "https://thearsenale.com/blogs/machines/how-much-does-a-superyacht-cost"},
+  {"ad": "SuperyachtNews - What it really costs to run a superyacht", "url": "https://www.superyachtnews.com/owner/what-it-really-costs-to-run-a-superyacht"},
+  {"ad": "Yachtbuyer - Custom yachts: key running costs", "url": "https://www.yachtbuyer.com/en/advice/custom-yachts-key-running-costs"},
+  {"ad": "Yachtway - Superyacht Maintenance Costs in 2025", "url": "https://yachtway.com/news/superyacht-maintenance-costs-in-2025/"},
+  {"ad": "UKSA - Annual superyacht salary guide 2025", "url": "https://uksa.org/news-and-guides/superyacht-salary-guide/"},
+  {"ad": "Ocean Independence - How Much Does a Superyacht Really Cost?", "url": "https://www.oceanindependence.com/articles/how-much-does-a-superyacht-cost/"},
+  {"ad": "IYC - Elevate Experience With Yacht Crew", "url": "https://iyc.com/blog/elevate-experience-with-yacht-crew"},
+  {"ad": "Wikipedia - Advance provisioning allowance", "url": "https://en.wikipedia.org/wiki/Advance_provisioning_allowance"},
+  {"ad": "Ahoy Club - Charter Cost Guide (50m)", "url": "https://ahoyclub.com/charter/costs/50m"},
+  {"ad": "Bespoke Yacht Charter - How much does a superyacht charter really cost?", "url": "https://bespokeyachtcharter.com/how-much-does-a-superyacht-charter-really-cost/"},
+  {"ad": "YATCO - Yacht Depreciation", "url": "https://www.yatco.com/yacht-depreciat"}
+ ],
+ "yapay_icerik_beyani": false
+}
